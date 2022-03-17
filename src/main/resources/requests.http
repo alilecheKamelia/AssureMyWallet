@@ -1,0 +1,10 @@
+POST  http://localhost:8099/devis/clients/
+Content-Type: application/json
+
+###
+GET http://localhost:8099/devis/clients/
+###
+GET http://localhost:8099/devis/clients/01
+
+
+###
